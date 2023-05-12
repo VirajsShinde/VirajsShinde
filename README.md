@@ -65,10 +65,11 @@ Description :
 Java Socket programming to perform text chatting.This application is platform & architecture
 independent.
 
-🌱 Web Technologies: Angular, HTML/HTML5, CSS2/CSS3.
-IDE & Tools: Visual Studio Code, Sublime, Apache NetBeans.
-Web Servers: Apache Tomcat 8.0.22, XAMPP.
-Version Control: GIT,GitHub.
-Database: SQL(oracle),MySQL.
-Operating System: Windows, Linux Distributions
-Methodologies: Agile, Waterfall.
+🌱 Web Technologies:
+Angular, HTML/HTML5, CSS2/CSS3. |
+IDE & Tools: Visual Studio Code, Sublime, Apache NetBeans. |
+Web Servers: Apache Tomcat 8.0.22, XAMPP. |
+Version Control: GIT,GitHub. |
+Database: SQL(oracle),MySQL. |
+Operating System: Windows, Linux Distributions |
+Methodologies: Agile, Waterfall. |
