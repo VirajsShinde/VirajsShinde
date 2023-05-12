@@ -3,7 +3,7 @@ Hello I'm Viraj Shinde, And Below Is Quick Introduction About Me!👋
 🔭 Institute / University : Im A Student Of Msc Computer Science (MCS),Nowrosjee Wadia College, Savitribai Phule University Pune.
 
 🌱 Skills :
-Lang:- C | Adv C++ | DSA | Java | Adv Java | Angular | Python ML | TypeScript/JS | MySQL
+Lang:- C  |  Adv C++  | DSA | Java | Adv Java | Angular | Python ML | TypeScript/JS | MySQL
 
 👯 Highlights:
 Strong Knowledge of Core & Advance Concepts in C,C++,Adv Java.
