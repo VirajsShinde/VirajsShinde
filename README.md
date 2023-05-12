@@ -34,12 +34,14 @@ Programming Languages :
 🌱 Technical Projects :
 
 🎯 Project Name : Generalised Data Structures Library. -(DS,C,C++ Programming)
+
 Description :
  Singly-Linear,Circular Linked List | Doubly-Linear,Circular Linked List.
  This Project provide implementations of all major types of DS,fundamental 
 operations as well as advanced operations on data structures.
 
 🎯 Project Name : Customised Virtual File System. -(C Programming)
+
 Description :
  This CVFS project provides all functionality to the user which is same as Linux File system.
  It provides necessary commands, system calls implementations of file system through
@@ -48,6 +50,7 @@ customised shell/Command Prompt.
 Table, File Table, UAREA, User File Descriptor table.
 
 🎯 Project Name : File Packer Unpacker encryption. -(Java Programming)
+
 Description :
  This project provides the facility of packing and unpacking the regular files. In packing
 activity the data from the packed file gets extracted in a single file.
@@ -56,6 +59,7 @@ activity the data from the packed file gets extracted in a single file.
 and decryption techniques.
 
 🎯 Project Name : Chat messenger System. -(Java Socket Programming)
+
 Description :
 This project provides text base interaction between server & client which is same as Messenger.
 Java Socket programming to perform text chatting.This application is platform & architecture
