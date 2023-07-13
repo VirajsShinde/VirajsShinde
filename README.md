@@ -1,19 +1,23 @@
-Hello, I'm Viraj Shinde, And Below Is Quick Introduction About Me!👋
+<h1 >Hello 👋, I'm Viraj Shinde</h1>
+
+#### Welcome to my GitHub profile 
+
+Below Is Quick Introduction About Me!
 
 🔭 Institute / University : Im A Student Of Msc Computer Science (MCS),Nowrosjee Wadia College, Savitribai Phule University Pune.
 
 🌱 Skills :
-Lang:- C  |  Adv C++  | DSA | Java | Adv Java | Angular | Python ML | TypeScript/JS | MySQL
+Lang:- C | C++ Programing | JAVA |DSA | Angular-MEAN | TS-JS | MySQL | Python-ML
 
 👯 Highlights:
-Strong Knowledge of Core & Advance Concepts in C,C++,Adv Java.
-Sounds Good Knowledge of Object Oriented Programing (OOP’s)
-Application development using C, C++, Java,Python,Angular.
-Linear-NonLinear Data Structure(DS) & Algorithm designing.(DSA)
-Good analytical and problem solving skills.(Logic Buliding)
-Knowledge of various python case studies.(ML)
-Knowledge of Web development using-(Angular,Typescript,JS)
-Basic Knowledge of operating systems internals.
+	Strong Knowledge of Core & Advance Concepts in C, C++, JAVA.
+	Sounds strong Knowledge of Object Oriented Programing (OOP’s) using C++, java.
+	Good analytical and problem solving skills.(Logic Buliding)
+	Application development using C, Cpp, JAVA Programing, MEAN Stack.
+	Linear-NonLinear Data Structure using C, C++ Programing. (DSA)
+	Client & Server side Web development MEAN-(Angular, Typescript, JS)
+	Basic Knowledge of operating systems internals.
+
 
 📫 How to reach me : Mail Id 📧 virajshinde.mcs@gmail.com
 
@@ -58,12 +62,16 @@ activity the data from the packed file gets extracted in a single file.
  GUI AWT to interact with the application.To maintain security of data there is encryption
 and decryption techniques.
 
-🎯 Project Name : Chat messenger System. -(Java Socket Programming)
 
-Description :
-This project provides text base interaction between server & client which is same as Messenger.
-Java Socket programming to perform text chatting.This application is platform & architecture
-independent.
+🎯 Project Name : Customized Student Management System.  –[C++ Programming, DS]                                                     Link
+	It’s a CUI base Application, Object Oriented Technique, CRUD Operation using Singly Linear LL.
+
+
+🎯 Project Name : Restaurant Record Application.  –[Angular, MEAN]                                                                           Link
+    Description :
+	Project covers all concepts of Angular. Login, Sign-up, Add, edit, delete oprations on Restaurant.
+	Reactive Forms, Bootstrap & Material. Node-JS, JSON Server & Deployment- AWS S3.
+
 
 🌱 Web Technologies:
 Angular, HTML/HTML5, CSS2/CSS3. |
